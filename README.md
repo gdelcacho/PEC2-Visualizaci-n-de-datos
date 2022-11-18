@@ -17,4 +17,9 @@ Los datos han sido extraídos de una base de datos pública, accesible desde:
   * https://github.com/jfjelstul/worldcup/blob/master/data-csv/goals.csv
 
 # Visualizaciones
-Las visualizaciones, en formato .html, están en la carpeta *figures* de este repositorio.
+Las visualizaciones, en formato .html, están en la carpeta *figures* de este repositorio. Dado que, por su tamaño, no pueden mostrarse en Github,
+se recomienda, bien descargarlas, bien verlas accediendo a los siguientes enlaces:
+ * Figura 1: https://raw.githack.com/gdelcacho/PEC2-Visualizaci-n-de-datos/main/figures/fig1.html
+ * Figura 2: https://raw.githack.com/gdelcacho/PEC2-Visualizaci-n-de-datos/main/figures/fig2.html
+ * Figura 3: https://raw.githack.com/gdelcacho/PEC2-Visualizaci-n-de-datos/main/figures/fig3.html 
+
